@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonyoutubescrap.iml" filepath="$PROJECT_DIR$/.idea/pythonyoutubescrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonsimplescraper.iml" filepath="$PROJECT_DIR$/.idea/pythonsimplescraper.iml" />
     </modules>
   </component>
 </project>
